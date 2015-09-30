@@ -8,4 +8,6 @@ Drawing littleHuang by CSS3
 
 http://lin-credible.github.io/QQ/seeYouQQ.html
 
-CSS 的学习之路才刚刚开始! 加油!
+[源码](https://github.com/lin-credible/lin-credible.github.com/blob/master/QQ/seeYouQQ.html), 一看就知道，典型地抄袭，非常可耻！
+
+不过没事，这应该是我CSS正式学习的开始! 慢慢来就好!
